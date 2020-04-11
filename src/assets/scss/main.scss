@@ -41,7 +41,7 @@
 	));
 
 	$size-header-width: 35%;
-	$size-header-pad: 4em;
+	$size-header-pad: 1.4em;
 
 /* Basic */
 	[data-block-id] {
@@ -604,7 +604,7 @@
 
 				.icon {
 					&:before {
-						font-size: 2.5em;
+						font-size: 1.5em;
 					}
 				}
 			}
@@ -946,7 +946,7 @@
 
 		.image.avatar {
 			margin: 0 0 (_size(element-margin) * 3.5) 0;
-			width: 7.25em;
+			width: 6.25em;
 		}
 	}
 
@@ -963,7 +963,7 @@
 
 		.copyright {
 			color: _palette(accent2, fg-light);
-			font-size: 1.1em;
+			font-size: 1.2em;
 			list-style: none;
 			margin: (_size(element-margin) * 0.5) 0 0 0;
 			padding: 0;
