@@ -21,7 +21,7 @@ class HomeIndex extends React.Component {
 
                     <section id="one">
                         <header className="major">
-                            <h2>See below, for unlikely things..</h2>
+                            <h2>See below, for unlikely happenings..</h2>
                         </header>
                         <p>After this sentence you can click on a link, but DON'T do it!!<br />zzzZZZ <a href="https://de.wikipedia.org/wiki/Schwimmbad" target="_blank">(Don't click here!)</a> ..Click the next link instead.. <a href="https://conradlin.com" target="_blank">Free Cornflakes</a></p>
                         <ul className="actions">
