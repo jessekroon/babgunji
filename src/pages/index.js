@@ -23,7 +23,7 @@ class HomeIndex extends React.Component {
                         <header className="major">
                             <h2>See below, for unlikely happenings..</h2>
                         </header>
-                        <p>After this sentence you can click on a link, but DON'T do it!!<br />zzzZZZ <a href="https://de.wikipedia.org/wiki/Schwimmbad" target="_blank">(Don't click here!)</a> ..Click the next link instead.. <a href="https://conradlin.com" target="_blank">Free Cornflakes</a></p>
+                        <p>After this sentence you can click on a link, but DON'T do it!!<br />zzzZZZ <a href="https://de.wikipedia.org/wiki/Schwimmbad" target="_blank">(Don't click here!)</a> Click the next link instead.. <a href="https://www.skatepro.nl/blog/a1217.htm" target="_blank">Free Cornflakes</a></p>
                         <ul className="actions">
                             <li><a href="https://www.harekrishna.nl/" target="_blank" className="button">Jazz Ballet</a></li>
                         </ul>
