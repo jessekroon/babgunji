@@ -21,26 +21,26 @@ class HomeIndex extends React.Component {
 
                     <section id="one">
                         <header className="major">
-                            <h2>This is a starter for Gatsby.js V2, demonstrating successful integration with notion as a CMS</h2>
+                            <h2>See below, for unlikely things..</h2>
                         </header>
-                        <p>Based on the Strata site template, designed by HTML5 UP.<br />Integrated with <a href="https://conradlin.com/blog/posts/host-gatsbyjs-blog-with-notion-cms-and-netlify-for-free/" target="_blank">notion</a> as a CMS for demonstration purposes by <a href="https://conradlin.com" target="_blank">Conrad Lin</a></p>
+                        <p>After this sentence you can click on a link, but DON'T do it!!<br />zzzZZZ <a href="https://de.wikipedia.org/wiki/Schwimmbad" target="_blank">(Don't click here!)</a> ..Click the next link instead.. <a href="https://conradlin.com" target="_blank">Free Cornflakes</a></p>
                         <ul className="actions">
                             <li><a href="https://www.harekrishna.nl/" target="_blank" className="button">Jazz Ballet</a></li>
                         </ul>
                     </section>
 
                     <section id="two">
-                        <h2>Recent Sharing</h2>
+                        <h2>Expensive Telescopes..</h2>
 
                         <ul className="actions">
-                            <li><Link to={`blog`} className="button">All Articles</Link></li>
-                            <li><Link to={`subscribe`} className="button">All Newsletters</Link></li>
+                            <li><Link to={`blog`} className="button">Do not Click..</Link></li>
+                            <li><Link to={`subscribe`} className="button">HERE!</Link></li>
                         </ul>
                     </section>
 
                     <section id="three">
                         <h2>Get in Tuts</h2>
-                        <p>Accumsan pellentesque commodo blandit enim arcu non at amet id arcu magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate lorem neque lorem ipsum dolor.</p>
+                        <p>Dit verhaal ging over Duitse Frietjes.. Einde!</p>
                         <div className="row">
                             <div className="8u 12u$(small)">
                                 <form method="post" action="#">
@@ -68,7 +68,7 @@ class HomeIndex extends React.Component {
                                     </li>
                                     <li>
                                         <h3 className="icon fa-envelope-o"><span className="label">Email</span></h3>
-                                        <a href="#">lets.talk@conradlin.com</a>
+                                        <a href="#">gesmolten@fietsband.nl</a>
                                     </li>
                                 </ul>
                             </div>

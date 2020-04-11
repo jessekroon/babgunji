@@ -9,8 +9,8 @@ class Header extends React.Component {
             <header id="header">
                 <div className="inner">
                     <Link to="/" className="image avatar"><img src={avatar} alt="" /></Link>
-                    <h1>A super simple responsite site<br />template <strong>powered by <a href="https://conradlin.com/blog/posts/host-gatsbyjs-blog-with-notion-cms-and-netlify-for-free/" target="_blank">Notion</a></strong>,<br /> 
-                    crafted by <a href="https://conradlin.com" target="_blank">Conrad Lin</a>.</h1>
+                    <h1>This Rocket is Launching Soon<br /> ... <strong>Readyyy, Steadyyy... <a href="https://nl.wikipedia.org/wiki/Trompet" target="_blank">GO!!!</a></strong>,<br /> 
+                    crafted by <a href="https://www.intertoys.nl/shop/nl/intertoys/lego-duplo-stoomtrein-10874-000" target="_blank"><strong>BABAGUNJI</strong></a>.</h1>
                 </div>
                 <Footer />
             </header>
