@@ -11,7 +11,7 @@ class Footer extends React.Component {
                         <li><a href="https://conradlin.com/subscribe/" target="_blank" className="icon fa-envelope-o"><span className="label">Email</span></a></li>
                     </ul>
                     <ul className="copyright">
-                        <li>&copy; Kermit without Permit</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+                        <li>&copy; Kermit with no permit</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
                     </ul>
                 </div>
             </div>
