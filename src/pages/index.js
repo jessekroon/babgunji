@@ -7,7 +7,7 @@ import Layout from '../components/layout'
 class HomeIndex extends React.Component {
 
     render() {
-        const siteTitle = "Gatsby Starter - Strata"
+        const siteTitle = "Captain Jazz - Ballet"
         const siteDescription = "Site description"
 
         return (
@@ -25,7 +25,7 @@ class HomeIndex extends React.Component {
                         </header>
                         <p>Based on the Strata site template, designed by HTML5 UP.<br />Integrated with <a href="https://conradlin.com/blog/posts/host-gatsbyjs-blog-with-notion-cms-and-netlify-for-free/" target="_blank">notion</a> as a CMS for demonstration purposes by <a href="https://conradlin.com" target="_blank">Conrad Lin</a></p>
                         <ul className="actions">
-                            <li><a href="https://www.youtube.com/watch?v=dMYKXVf88J0" target="_blank" className="button">Learn More</a></li>
+                            <li><a href="https://www.harekrishna.nl/" target="_blank" className="button">Jazz Ballet</a></li>
                         </ul>
                     </section>
 
@@ -39,7 +39,7 @@ class HomeIndex extends React.Component {
                     </section>
 
                     <section id="three">
-                        <h2>Get In Touch</h2>
+                        <h2>Get in Tuts</h2>
                         <p>Accumsan pellentesque commodo blandit enim arcu non at amet id arcu magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate lorem neque lorem ipsum dolor.</p>
                         <div className="row">
                             <div className="8u 12u$(small)">
