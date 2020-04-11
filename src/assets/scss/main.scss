@@ -963,7 +963,7 @@
 
 		.copyright {
 			color: _palette(accent2, fg-light);
-			font-size: 1.2em;
+			font-size: 1.4em;
 			list-style: none;
 			margin: (_size(element-margin) * 0.5) 0 0 0;
 			padding: 0;
@@ -971,7 +971,7 @@
 			li {
 				border-left: solid 1px _palette(accent2, border);
 				display: inline-block;
-				line-height: 1em;
+				line-height: 5em;
 				margin-left: 0.5em;
 				padding-left: 0.5em;
 
@@ -982,7 +982,7 @@
 				}
 
 				a {
-					color: yellowgreen;
+					color: rgb(95, 3, 54);
 				}
 			}
 		}
