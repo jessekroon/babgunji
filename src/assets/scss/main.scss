@@ -939,14 +939,14 @@
 
 		h1 {
 			color: _palette(accent2, fg);
-			font-size: 1.35em;
+			font-size: 1.15em;
 			line-height: 1.75em;
 			margin: 0;
 		}
 
 		.image.avatar {
-			margin: 0 0 (_size(element-margin) * 3.5) 0;
-			width: 6.25em;
+			margin: 0 0 (_size(element-margin) * 2.5) 0;
+			width: 7.4em;
 		}
 	}
 
@@ -957,13 +957,13 @@
 			margin: (_size(element-margin) * 0.5) 0 0 0;
 
 			a {
-				color: _palette(accent2, fg-light);
+				color: yellowgreen;
 			}
 		}
 
 		.copyright {
 			color: _palette(accent2, fg-light);
-			font-size: 1.4em;
+			font-size: 1.1em;
 			list-style: none;
 			margin: (_size(element-margin) * 0.5) 0 0 0;
 			padding: 0;
@@ -971,7 +971,7 @@
 			li {
 				border-left: solid 1px _palette(accent2, border);
 				display: inline-block;
-				line-height: 5em;
+				line-height: 1.1em;
 				margin-left: 0.5em;
 				padding-left: 0.5em;
 
@@ -982,7 +982,7 @@
 				}
 
 				a {
-					color: rgb(95, 3, 54);
+					color: rgb(226, 32, 32);
 				}
 			}
 		}
