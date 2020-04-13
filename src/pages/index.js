@@ -3,12 +3,13 @@ import Helmet from 'react-helmet'
 import { Link } from "gatsby";
 
 import Layout from '../components/layout'
+// import Lightbox from 'react-images'
 
 class HomeIndex extends React.Component {
 
     render() {
-        const siteTitle = "Captain Jazz - Ballet"
-        const siteDescription = "Site description"
+        const siteTitle = "Duitse Degelijkheid"
+        const siteDescription = "Everything before is what it became afterwards"
 
         return (
             <Layout>
@@ -21,26 +22,26 @@ class HomeIndex extends React.Component {
 
                     <section id="one">
                         <header className="major">
-                            <h2>See below, for unlikely happenings..</h2>
+                            <h2>Hare Krishna</h2>
                         </header>
-                        <p>After this sentence you can click on a link, but DON'T do it!!<br />zzzZZZ <a href="https://de.wikipedia.org/wiki/Schwimmbad" target="_blank">(Don't click here!)</a> Click the next link instead.. <a href="https://www.skatepro.nl/blog/a1217.htm" target="_blank">Free Cornflakes</a></p>
+                        <p>Yep<br />zzzZZZ <a href="https://de.wikipedia.org/wiki/Schwimmbad" target="_blank">(Don't click here!)</a> Click the next link instead.. <a href="https://www.skatepro.nl/blog/a1217.htm" target="_blank">Free Cornflakes</a></p>
                         <ul className="actions">
                             <li><a href="https://www.harekrishna.nl/" target="_blank" className="button">Jazz Ballet</a></li>
                         </ul>
                     </section>
 
                     <section id="two">
-                        <h2>Expensive Telescopes..</h2>
+                        <h2>Portfolio:</h2>
 
                         <ul className="actions">
-                            <li><Link to={`blog`} className="button">Do not Click..</Link></li>
-                            <li><Link to={`subscribe`} className="button">HERE!</Link></li>
+                            <li><Link to={`blog`} className="button">Projects..</Link></li>
+                            <li><Link to={`subscribe`} className="button">CV..</Link></li>
                         </ul>
                     </section>
 
                     <section id="three">
                         <h2>Get in Tuts</h2>
-                        <p>Dit verhaal ging over Duitse Frietjes.. Einde!</p>
+                        <p>zZZzZZzZZ</p>
                         <div className="row">
                             <div className="8u 12u$(small)">
                                 <form method="post" action="#">
