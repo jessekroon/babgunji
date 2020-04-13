@@ -3,13 +3,12 @@ import Helmet from 'react-helmet'
 import { Link } from "gatsby";
 
 import Layout from '../components/layout'
-// import Lightbox from 'react-images'
 
 class HomeIndex extends React.Component {
 
     render() {
         const siteTitle = "Duitse Degelijkheid"
-        const siteDescription = "Everything before is what it became afterwards"
+        const siteDescription = "Everything before is what it became afterwards "
 
         return (
             <Layout>
@@ -24,7 +23,7 @@ class HomeIndex extends React.Component {
                         <header className="major">
                             <h2>Hare Krishna</h2>
                         </header>
-                        <p>Yep<br />zzzZZZ <a href="https://de.wikipedia.org/wiki/Schwimmbad" target="_blank">(Don't click here!)</a> Click the next link instead.. <a href="https://www.skatepro.nl/blog/a1217.htm" target="_blank">Free Cornflakes</a></p>
+                        <p>ABC<br />zzzZZZ <a href="https://de.wikipedia.org/wiki/Schwimmbad" target="_blank">(Don't click here!)</a> Click the next link instead.. <a href="https://www.skatepro.nl/blog/a1217.htm" target="_blank">Free Cornflakes</a></p>
                         <ul className="actions">
                             <li><a href="https://www.harekrishna.nl/" target="_blank" className="button">Jazz Ballet</a></li>
                         </ul>
