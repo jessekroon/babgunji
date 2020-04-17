@@ -25,7 +25,7 @@ class HomeIndex extends React.Component {
                         </header>
                         <p>ABC<br />zzzZZZ <a href="https://de.wikipedia.org/wiki/Schwimmbad" target="_blank">(Don't click here!)</a> Click the next link instead.. <a href="https://www.skatepro.nl/blog/a1217.htm" target="_blank">Free Cornflakes</a></p>
                         <ul className="actions">
-                            <li><a href="https://www.harekrishna.nl/" target="_blank" className="button">Jazz Ballet</a></li>
+                            <li><a href="https://www.harekrishna.nl/" target="_blank" className="button">jaazzzZZZZ</a></li>
                         </ul>
                     </section>
 
@@ -33,8 +33,8 @@ class HomeIndex extends React.Component {
                         <h2>Portfolio:</h2>
 
                         <ul className="actions">
-                            <li><Link to={`blog`} className="button">Projects..</Link></li>
-                            <li><Link to={`subscribe`} className="button">CV..</Link></li>
+                            <li><Link to={`blog`} className="button">VIS</Link></li>
+                            <li><Link to={`subscribe`} className="button">AAP</Link></li>
                         </ul>
                     </section>
 
