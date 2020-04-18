@@ -30,7 +30,7 @@ class HomeIndex extends React.Component {
                     </section>
 
                     <section id="two">
-                        <h2>Portfolio:</h2>
+                        <h2>POPO</h2>
 
                         <ul className="actions">
                             <li><Link to={`blog`} className="button">VIS</Link></li>
